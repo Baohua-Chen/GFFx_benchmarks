@@ -1,0 +1,5 @@
+*.gff filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.gff.db filter=lfs diff=lfs merge=lfs -text
+*.gff.db.* filter=lfs diff=lfs merge=lfs -text
+hs.gff.fts filter=lfs diff=lfs merge=lfs -text

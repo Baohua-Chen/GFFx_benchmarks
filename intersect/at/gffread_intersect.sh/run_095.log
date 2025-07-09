@@ -1,0 +1,2 @@
+shell-init: error retrieving current directory: getcwd: cannot access parent directories: No such file or directory
+bash: line 1: 1457414 Killed                  ./gffread_intersect.sh at.gff intersect_st/at/input_095.txt > /dev/null 2> /dev/null
