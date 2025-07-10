@@ -73,8 +73,8 @@ Each `run_*.log` contains `/usr/bin/time -v` output with memory and runtime metr
 
 This directory uses **dual licensing** for clarity:
 
-- í ½í³œ **Scripts** (`*.sh`, `*.py`, and `*.ipynb`) are licensed under the [MIT License](./LICENSE-MIT)
-- í ½í³‚ **Benchmark datasets** (all other type of files except "Scripts") are licensed under the [Creative Commons Attribution 4.0 (CC-BY 4.0)](./LICENSE-CC-BY)
+- **Scripts** (`*.sh`, `*.py`, and `*.ipynb`) are licensed under the [MIT License](./LICENSE-MIT)
+- **Benchmark datasets** (all other type of files except "Scripts") are licensed under the [Creative Commons Attribution 4.0 (CC-BY 4.0)](./LICENSE-CC-BY)
 
 > Please cite the GFFx project or this repository if you use the benchmark data in research or publications.
 
