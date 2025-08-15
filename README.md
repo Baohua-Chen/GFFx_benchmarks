@@ -22,7 +22,7 @@ benchmark/
 ├── extract/             # Stores generated inputs & logs for feature extraction
 ├── intersect/           # Stores generated inputs & logs for region intersection
 ├── LICENSE-MIT          # License for scripts
-├── LICENSE-CC-BY        # License for benchmark data
+├── LICE0-CC-BY        # License for benchmark data
 └── README.md            # This file
 ```
 
@@ -74,7 +74,7 @@ Each `run_*.log` contains `/usr/bin/time -v` output with memory and runtime metr
 This directory uses **dual licensing** for clarity:
 
 - **Scripts** (`*.sh`, `*.py`, and `*.ipynb`) are licensed under the [MIT License](./LICENSE-MIT)
-- **Benchmark datasets** (all other type of files except "Scripts") are licensed under the [Creative Commons Attribution 4.0 (CC-BY 4.0)](./LICENSE-CC-BY)
+- **Benchmark datasets** (all other type of files except "Scripts") are licensed under the [Creative Commons Public Licenses (CC0)](./LICENSE-CC0)
 
 > Please cite the GFFx project or this repository if you use the benchmark data in research or publications.
 
